@@ -1,0 +1,26 @@
+# Site settings
+title: Official LeashedSkies Artist Site
+description: >-
+  Welcome! Check out my music here.
+baseurl: "" # Set this if using a subdirectory, e.g., "/mysite"
+url: "https://leashedskies.github.io/LeashedSkiesArtist" # Change to your actual GitHub Pages URL or custom domain
+
+# GitHub Pages theme
+theme: jekyll-theme-cayman
+
+# Author information (optional)
+author: "LeashedSkies"
+email: ""
+
+# Social links (optional)
+twitter_username: ""
+github_username: "LeashedSkies"
+
+# Build settings
+markdown: kramdown
+
+# Plugins (GitHub Pages automatically includes these)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
